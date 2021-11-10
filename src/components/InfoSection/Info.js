@@ -1,0 +1,51 @@
+export const homeObj1 = {
+  id: "about",
+  lightBg: false,
+  lightText: true,
+  lightTextDesc: true,
+  topLine: "Premium Grill Experience",
+  heading: "Only the best Chefs cook for us",
+  description:
+    "Get acces to our exclusive app that allows you to receive the best deals for the best meals",
+  buttonLabel: "Get the App",
+  imgStar: false,
+  img: require("../../images/svg-1.svg").default,
+  alt: "car",
+  dark: true,
+  primary: true,
+  darkText: false,
+};
+export const homeObj2 = {
+  id: "discover",
+  lightBg: true,
+  lightText: false,
+  lightTextDesc: false,
+  topLine: "Anytime Anywhere",
+  heading: "Feel Hungry? We are ready to serve you",
+  description:
+    "We feature round the clock deliveries for all orders placed on the app",
+  buttonLabel: "Place an Order",
+  imgStar: true,
+  img: require("../../images/svg-2.svg").default,
+  alt: "car",
+  dark: false,
+  primary: false,
+  darkText: true,
+};
+export const homeObj3 = {
+  id: "signUp",
+  lightBg: false,
+  lightText: true,
+  lightTextDesc: true,
+  topLine: "Hello there",
+  heading: "Come on In",
+  description:
+    "Our luxurious location is sure to impress anyone walking through the door",
+  buttonLabel: "View Locations",
+  imgStar: false,
+  img: require("../../images/svg-3.svg").default,
+  alt: "car",
+  dark: true,
+  primary: true,
+  darkText: false,
+};
