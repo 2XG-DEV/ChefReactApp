@@ -1,3 +1,13 @@
+# Description
+
+Landing page for an upcoming fictional restaurant
+
+View the app working at : https://chefreact.web.app/
+
+Page created using create-react-app , styled components , react-router-dom , react-scroll , react-icons
+
+Website features a navbar for desktop view, sidebar menu for mobile and 6 sections : a hero section , about , ToGo , Services , locations , footer + a signIn page
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
